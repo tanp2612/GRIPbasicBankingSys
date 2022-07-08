@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.intro{
+	background: #EAF0F1;
+}
+h1{
+	color: #317e2e;
+	font-weight: bold;
+	transition: 0.5s;
+	text-align: center;
+}
+h3{
+	color:#2F363F;
+}
+h1:hover{
+	transform: scale(1.1);
+	color: #317e2e;
+}
+
+.action{
+	text-align: center;
+	text-decoration: underline;
+	font-family: 'Roboto Slab', serif;
+}
+
+h2{
+	font-size: 40px;
+}
+table{
+	letter-spacing: 1.2px;
+}
+td{
+	text-align: center;
+}
